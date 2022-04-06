@@ -1,5 +1,5 @@
 # dio-desafio-github
- Desafio de Projeto sobre Git/GitHub
+ Desafio de Projeto sobre Git/GitHub - Cronometro em JS
 
  ## Links úteis
  
